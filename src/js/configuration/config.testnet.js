@@ -1,4 +1,4 @@
-const nodeUrl = 'https://testnode1.wavesnodes.com';
+const nodeUrl = 'https://testnet.mdmcoin.com';
 
 export default {
     networkId: 'testnet',
